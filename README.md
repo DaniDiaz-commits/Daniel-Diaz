@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on apolonia la piedra enterprise
 - 📫 How to reach me https://www.voxespana.es/
 - 😄 Pronouns: It/they
-- ⚡ Fun fact: Im gay
+- ⚡ Fun fact: Im racist
 
 <!---
 Leonardo-Romani/Leonardo-Romani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
