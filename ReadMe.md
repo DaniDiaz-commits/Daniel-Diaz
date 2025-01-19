@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Leonardo-Romani<br>👀 I’m interested in having sex<br>🌱 I’m currently learning about how to sell vaccum cleaners<br>💞️ I’m looking to collaborate on apolonia la piedra enterprise<br>📫 How to reach me https://www.voxespana.es/<br>😄 Pronouns: It/they<br>⚡ Fun fact: Im racist
-
+👋 Hi, I’m @Daniel Díaz<br>👀 I’m interested in front end<br>🌱 I’m currently learning about how develop web applications<br>💞️ How to reach me <br>😄⚡ Fun fact: Im new 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d.d1az) 
