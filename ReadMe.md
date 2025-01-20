@@ -1,3 +1,7 @@
+<p align="center" width="300">
+  <h3 align="center">¡Hey 👋! Soy Dani</h3>
+</p>
+
 # 💫 About Me:
 👋 Hi, I’m @Daniel Díaz<br>👀 I’m interested in front end<br>🌱 I’m currently learning about how develop web applications<br>💞️ How to reach me <br>😄⚡ Fun fact: Im new 
 
